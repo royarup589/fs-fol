@@ -1,0 +1,5 @@
+ok this is first line
+1st input
+
+ok
+2nd input
