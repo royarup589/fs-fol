@@ -3,28 +3,36 @@
 #this is 1st heading
 ## this is 2nd heading
 ### this is 3rd heading
+#### this is 4rd heading and its going upto 6th heading
+
 
 Normal text
-*Normal*
+
+*Normal2*
+
 **bold**
+
 _italic_
 
-'''html
+```html
 <h1> hello </h1>
-'''
+```
 
-1.arup
-2.ashish
-3. akash
+# unorder list
+- arup
+- ashish
+- akash
 
-_arup
-_ashu
-- arip
--ashish
+# order list
+1. arup
+2. ashu
+3. arip
+4. ashish
 
-![nature](/photo%20_a/pic1.jpg.jpg)
+![nature](/photo%20_a/pic1.jpg.jpg)❤️
 
-|name|age|marks|
-|asghis|20|9.0|
-|ashu|21|8.0|
-|arup|20|7.5|
+| ashish | 20 |
+|------|-----|
+| ashish | 20 | 
+| ashus | 20 |
+
