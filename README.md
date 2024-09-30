@@ -29,7 +29,7 @@ _italic_
 3. arip
 4. ashish
 
-![nature](/photo%20_a/pic1.jpg.jpg)❤️
+![nature](/photo%20_a/pic1.jpg.jg)❤️
 
 | ashish | 20 |
 |------|-----|
